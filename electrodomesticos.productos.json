@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "69d595ecdbc5d4888aa9d742"
+  },
+  "nombre": "lavadora de ropa",
+  "descripcion": "Lavadora de ropa con capacidad de carga de 8kg y función de lavado a temperatura alta",
+  "precio": 2000000,
+  "stock": 80,
+  "disponible": true,
+  "createdAt": {
+    "$date": "2026-04-07T23:40:28.938Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T23:41:58.235Z"
+  },
+  "__v": 0
+}]
